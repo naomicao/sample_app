@@ -37,5 +37,8 @@ If the test suite passes, you'll be ready to run the app in a local server:
 $ rails server
 ```
 
+To access the app online, go to:
+https://morning-tundra-43305.herokuapp.com/
+
 For more information, see the
 [*Ruby on Rails Tutorial* book](https://www.railstutorial.org/book).
